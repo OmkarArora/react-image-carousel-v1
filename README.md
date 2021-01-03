@@ -1,15 +1,27 @@
-# Image Carousel
+# React Image Carousel
 
-This is an Image Component or image Slider Component built using React Hooks.
+This is an Image Carousel/Image Slider Component built using React.
 
-## Getting Started with Create React App
+- Built using React Hooks
+- Responsive Design
+
+## **[Live Demo](https://react-image-carousel-v1.netlify.app/)**
+
+[![App Screenshot](./public/screenshot.png)](https://react-image-carousel-v1.netlify.app/)
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### Running Locally
+
+Clone the project and run **_npm install_**, then run **_npm start_**
+
+### `npm install`
+
+Run this command in the directory where package.json file is located. This will install all the required dependencies for the project.
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
