@@ -4,10 +4,11 @@ This is an Image Carousel/Image Slider Component built using React.
 
 - Built using React Hooks
 - Responsive Design
+- Contextual Background Colors
 
-## **[Live Demo](https://react-image-carousel-v1.netlify.app/)**
+## **[Live Site](https://react-image-carousel-v1.netlify.app/)**
 
-[![App Screenshot](./public/screenshot.png)](https://react-image-carousel-v1.netlify.app/)
+[![App Demo](./public/demo.gif)](https://react-image-carousel-v1.netlify.app/)
 
 ### Getting Started with Create React App
 
